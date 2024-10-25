@@ -1,11 +1,12 @@
 # Adventure Works Project
 
+### Project Dashboard:
+[Link to PDF](./Power_bi/Dashboard.pdf)
+
 ### Summary:
 
 Using SQL Server, Python, Power BI, and Excel, I pulled data from the database, made calculations with DAX in Powerbi, and created a dashboard 
 
-### Project Dashboard
-[Link to PDF](./Power_bi/Dashboard.pdf)
 
 ### Business Problem:
 We need to improve our internet sales reports and want to move from static reports to visual dashboards.
