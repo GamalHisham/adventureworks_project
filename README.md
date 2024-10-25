@@ -1,7 +1,7 @@
 # Adventure Works Project
 
 ### Project Dashboard:
-[Link to PDF](./Power_bi/Dashboard.pdf)
+[Adventure Works Analysis](./Power_bi/Dashboard.pdf)
 
 ### Summary:
 
