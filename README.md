@@ -4,6 +4,9 @@
 
 Using SQL Server, Python, Power BI, and Excel, I pulled data from the database, made calculations with DAX in Powerbi, and created a dashboard 
 
+### Project Dashboard
+[Link to PDF](./Power_bi/Dashboard.pdf)
+
 ### Business Problem:
 We need to improve our internet sales reports and want to move from static reports to visual dashboards.
 We want to focus on the amount we have sold what products to which clients, and how it has been over time.
@@ -56,5 +59,4 @@ A handful of KPIs were provided to analyze the data, but I have created addition
 4. The fourth quarter of every year is the best selling quarter so we need to increase marketing in these months
 5. We do well in all Months except February, July, September, and December so we need to make a new strategy for these months
 
-### Dashboard
-[Link to PDF](./Power_bi/Dashboard.pdf)
+
