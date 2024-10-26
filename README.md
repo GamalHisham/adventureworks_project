@@ -34,7 +34,7 @@ A handful of KPIs were provided to analyze the data, but I have created addition
 <div>
 <img src="https://github.com/user-attachments/assets/1f36f0f5-d1a8-4bba-ae78-311fb02633d7" width="900" height="520">
 <img src="https://github.com/user-attachments/assets/ede2ec68-f7b0-4ecd-8fa2-874bca5cf7aa" width="900" height="520">
-<img src="https://github.com/user-attachments/assets/82c8763a-ea23-402d-8233-524cb27adbb9" width="900" height="520">
+<img src="https://github.com/user-attachments/assets/c6b2f89e-a9f7-4588-8e5f-8f94b15edaa0" width="900" height="520">
 </div>
 
 2. Power BI: Dax, writing functions, ETL, calculated columns, data visualization, data modeling
